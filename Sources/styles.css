@@ -1,0 +1,164 @@
+/****Styles Sheet******
+**********************/
+
+
+/****Body Styles******
+**********************/
+
+body{
+	background-color:lightgray;
+	font-family:"Didot LT pro Roman", "Sentinel", "Houston";
+	padding:0;
+	margin:0;
+}
+
+
+
+
+/****Main Header Styles***
+*************************/
+.main-head{
+	padding:30px;
+	background-color:white;
+}
+
+
+h1{
+	text-shadow:5px lightgray;
+}
+
+.page-head{
+	text-align:center;
+	padding-top:50px;
+	padding-bottom:50px;
+}
+
+/*****Home Page Styles******
+**************************/
+
+.bio{
+	text-align:center;
+}
+
+.bio h3{
+	padding:10px;
+}
+
+/******List Styles******
+***********************/
+
+.list li{
+	text-decoration: none;
+	color: blue;
+}
+
+/******Contact Sytles*****
+*************************/
+
+.contact-info{
+	text-align:center;
+}
+/****Nav Styles******
+**********************/
+
+.main-nav li{
+	display:inline;
+	color:black;
+	font-size: 25px;
+}
+
+.main-nav{
+	text-align:center;
+	word-spacing:120px;
+}
+
+.main{
+	word-spacing:120px;
+}
+.main-nav li a{
+	text-decoration:none;
+	color:black;
+}
+
+li a:hover{
+	text-decoration:underline;
+}
+
+
+/***Image Styles******
+**********************/
+
+
+img{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:25px;
+	border-radius:15px;
+	box-shadow:10px 10px;
+}
+
+.pic{
+	padding-bottom:50px;
+}
+/***Column Styles******
+**********************/
+
+.wrap{
+	margin:55px;
+}
+
+.wrap h2{
+	text-decoration:underline;
+}
+
+.border{
+	border:solid black 1px;
+	border-radius:15px;
+}
+
+.column_1, .column_2, .column_3{
+	display:inline-block;
+	margin-top:20px;
+	margin-bottom:20px;
+}
+
+.column_1{
+	margin-left:210px;
+	margin-right:30px;
+	text-align:center;
+}
+
+.column_2{
+	margin-left:50px;
+	margin-right:30px;
+	text-align:center;
+}
+
+.column_3{
+	margin-left:50px;
+	margin-right:30px;
+	text-align:center;
+}
+
+footer{
+	text-align:center;
+}
+
+.request{
+	text-align:center;
+}
+
+/****Video Styles******
+**********************/
+
+.video{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	width:720px;
+	padding:50px;
+}
+
+/******Viewport Settings*****
+****************************/
