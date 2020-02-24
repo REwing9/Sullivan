@@ -48,8 +48,8 @@ h1{
 ***********************/
 
 .list li{
-	text-decoration: none;
-	color: blue;
+	font-family:"Didot LT pro Roman", "Sentinel", "Houston";
+	display: inline-block;
 }
 
 /******Contact Sytles*****
