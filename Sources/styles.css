@@ -49,14 +49,16 @@ h1{
 
 .list{
 	text-align: center;
+	word-spacing: 25px;
 }
 
 
 .list li{
-	font-family:"Didot LT pro Roman", "Sentinel", "Houston";
-	display: inline-block;
+	display: inline;
 	font-size: 30px;
 }
+
+
 
 
 
