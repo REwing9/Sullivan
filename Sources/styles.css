@@ -47,10 +47,19 @@ h1{
 /******List Styles******
 ***********************/
 
+.list{
+	text-align: center;
+}
+
+
 .list li{
 	font-family:"Didot LT pro Roman", "Sentinel", "Houston";
 	display: inline-block;
+	font-size: 30px;
 }
+
+
+
 
 /******Contact Sytles*****
 *************************/
