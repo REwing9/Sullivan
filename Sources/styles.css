@@ -1,15 +1,16 @@
 /****Styles Sheet******
 **********************/
-
+*{
+	box-sizing:border-box;
+}
 
 /****Body Styles******
 **********************/
 
-body{
-	background-color:lightgray;
+body,html{
+	background:#eaeaea;
 	font-family:"Didot LT pro Roman", "Sentinel", "Houston";
-	padding:0;
-	margin:0;
+	height: 100%;
 }
 
 
@@ -18,9 +19,17 @@ body{
 /****Main Header Styles***
 *************************/
 .main-head{
-	padding:30px;
-	background-color:white;
+	background-image: linear-gradient(rgba(0, 0, 0, 0.5),
+	rgba(0, 0, 0, 0.5)),
+	url("../pics/IMG_3045.JPG");
+	height: 50%;
+	background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+	margin-bottom: 50px;
 }
+
 
 
 h1{
@@ -34,11 +43,7 @@ h2{
 	text-indent: 30px;
 }
 
-.page-head{
-	text-align:center;
-	padding-top:50px;
-	padding-bottom:50px;
-}
+
 
 /*****Home Page Styles******
 **************************/
