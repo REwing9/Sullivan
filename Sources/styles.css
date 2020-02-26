@@ -20,7 +20,7 @@ body,html{
 .main-head{
 	background-image: linear-gradient(rgba(0, 0, 0, 0.5),
 	rgba(0, 0, 0, 0.5)),
-	url("../pics/IMG_3045.JPG");
+	url("../pics/key_1.JPG");
 	height: 50%;
 	background-position: center;
   background-repeat: no-repeat;
@@ -28,14 +28,6 @@ body,html{
   position: relative;
 	margin-bottom: 50px;
 }
-/*
-.ocean{
-	-webkit-transform:rotate(90deg);
-  -moz-transform: rotate(90deg);
-  -ms-transform: rotate(90deg);
-  -o-transform: rotate(90deg);
-  transform: rotate(90deg);
-}*/
 
 .image-text{
 	text-align: center;
